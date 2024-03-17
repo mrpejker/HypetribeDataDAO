@@ -14,12 +14,15 @@ Hypetribe paves the way for a more democratic and transparent data market, where
 This repo is based on the example  of the BscuitDAO. For further development of the project, it has to be significantly changed to reflect the data market of the described case.
 
 ## Results of Deploy & Upload of the UGC
+### Smart contracts deployed on Calibration testnet 
+DAO Deal address: "0xE28303aB1DDfAA05caad98f0197A20ebB82BF4d7",
 
+Governor Contract address: "0xA38282f67527F9e10262F7F9A85ec83d17219900",
 
-DAO Deal   "address": "0xE28303aB1DDfAA05caad98f0197A20ebB82BF4d7",
-Governor Contract   "address": "0xA38282f67527F9e10262F7F9A85ec83d17219900",
- HypeTribeTKN  "address": "0xD596081aBa4D708AD1182911834764B72fc80195",
-TimeLock   "address": "0x741452c631B718074fC2B1398EbF78cA962B2030",
+HypeTribeTKN address: "0xD596081aBa4D708AD1182911834764B72fc80195",
+
+TimeLock address: "0x741452c631B718074fC2B1398EbF78cA962B2030",
+### Example of raw data unit upload
 {
   data: {
     Name: 'reel1.png',
@@ -28,7 +31,7 @@ TimeLock   "address": "0x741452c631B718074fC2B1398EbF78cA962B2030",
   }
 }
 Visit at: https://gateway.lighthouse.storage/ipfs/QmQnCjNcjZZVNd9F8W1962pL6ouSW3sRvUTTjvfPan21vp
-
+### Deal status details
 Deal Status: {
   data: [
     {
@@ -53,12 +56,11 @@ Deal Status: {
   ]
 
 
-}Proposing transfer on 0xD596081aBa4D708AD1182911834764B72fc80195 with 0x978aFb7BEd7f2AA1d5a0e44794067114B3611E47,100000000000000000000
+}
+
+Proposing transfer on 0xD596081aBa4D708AD1182911834764B72fc80195 with 0x978aFb7BEd7f2AA1d5a0e44794067114B3611E47,100000000000000000000
 Proposal Description:
 DealID: 100, IPFS CID: QmUxFi7j27zcM4hUDU5Rrd8SM32bko5BEGDTuz3tCTSJYu
 
-
-y
 Proposed with proposal ID:
   77777899155727862529040084811537699558472852125058985584758186689005749427866
-Current Proposal State: 0
